@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+    <channel>
+        <title>Chinese Garden</title>
+        <link>https://www.huntington.org</link>
+        <description>Inspired by the centuries-old Chinese tradition of private gardens designed for scholarly pursuits, The Huntington’s Chinese garden—Liu Fang Yuan, or the Garden of Flowing Fragrance—combines the scenic beauty of nature with the expressiveness of literature to give deeper meaning to the landscape. The Huntington organizes a Chinese Garden Lectures Series annually, inviting experts to discuss the design, symbolism, and beauty of Chinese gardens.</description>
+        <language>en</language>
+        <pubDate>Mon, 21 Jan 2019 10:31:30 -0800</pubDate>
+        <lastBuildDate>Mon, 21 Jan 2019 10:31:31 -0800</lastBuildDate>
+        <image>
+            <url>http://media.huntington.org/xml/images/ChineseGarden.jpg</url>
+            <title>Chinese Garden</title>
+            <link>https://www.huntington.org</link>
+        </image>
+        <atom:link href="http://media.huntington.org.s3.amazonaws.com/xml/rss/chinesegarden.xml" rel="self" type="application/rss+xml"/>
+        <itunes:author>The Huntington</itunes:author>
+        <itunes:image href="http://media.huntington.org/xml/images/ChineseGarden.jpg"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>The Huntington</itunes:name>
+            <itunes:email>itunesu@huntington.org</itunes:email>
+        </itunes:owner>
+        <itunes:block>no</itunes:block>
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="History"/>
+            <itunes:category text="Places &amp; Travel"/>
+        </itunes:category>
+        <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Why So Few Gardens? Chinese Architecture, 1927–1977</title>
+            <description><![CDATA[Nancy S. Steinhardt, professor of East Asian art at the University of Pennsylvania, examines the work of China's four greatest 20th-century architects, who were given the mandate of constructing a new China. Through their personal stories, spanning tumultuous decades of war and internal strife, Steinhardt explores the intimate relationship between architecture, modernism, and the political arena.]]></description>
+            <pubDate>Tue, 18 Feb 2014 19:30:33 -0800</pubDate>
+            <enclosure url="http://media.huntington.org/audio/steindardt_lecture_2-10-2014.mp3" length="69377492" type="audio/mpeg"/>
+            <guid isPermaLink="false">255CD43D-DD28-4A96-8D7C-C526CBB51923</guid>
+            <itunes:summary>Nancy S. Steinhardt, professor of East Asian art at the University of Pennsylvania, examines the work of China's four greatest 20th-century architects, who were given the mandate of constructing a new China. Through their personal stories, spanning tumultuous decades of war and internal strife, Steinhardt explores the intimate relationship between architecture, modernism, and the political arena.</itunes:summary>
+            <itunes:duration>1:12:16</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunesu:category itunesu:code="102100"/>
+        </item>
+        <item>
+            <title>Chinese Kun Opera: Peter Sellars and Hua Wenyi in Conversation</title>
+            <description><![CDATA[The art, expression, and modern interpretation of Kun opera (kunqu), the oldest and most refined Chinese opera form, is explored in an evening of conversation and musical excerpts with impresario Peter Sellars and renowned Kun opera star Hua Wenyi. Sellars’ acclaimed 1999 production of “Peony Pavilion” with composer Tan Dun, which starred Hua, was a significant part of the evening’s discussion. The opera is based on a famous 16th-century play by Tang Xianzu. Also joining the conversation was Susan Pertel Jain, executive director of the UCLA Confucius Institute, who originally brought Sellars and Hua together in 1990 at the Los Angeles Festival. Qiaoer Zheng, a young Kun opera student from the Asian theater program at the University of Hawaii, joined Madame Hua in one scene. Kunqu flute player Henry Chang provided accompaniment.]]></description>
+            <pubDate>Tue, 26 Jul 2011 21:45:28 -0700</pubDate>
+            <enclosure url="http://media.huntington.org/audio/Kun_Opera.m4a" length="77553243" type="audio/x-m4a"/>
+            <guid isPermaLink="false">47CCA62B-DE2E-4373-9460-CFA8916E9F99</guid>
+            <source url="http://www.huntington.org/audio/Kun_Opera.m4a">Chinese Kun Opera: Peter Sellars and Hua Wenyi in Conversation</source>
+            <itunes:author>Peter Sellars and Hua Wenyi</itunes:author>
+            <itunes:summary>The art, expression, and modern interpretation of Kun opera (kunqu), the oldest and most refined Chinese opera form, is explored in an evening of conversation and musical excerpts with impresario Peter Sellars and renowned Kun opera star Hua Wenyi. Sellars’ acclaimed 1999 production of “Peony Pavilion” with composer Tan Dun, which starred Hua, was a significant part of the evening’s discussion. The opera is based on a famous 16th-century play by Tang Xianzu. Also joining the conversation was Susan Pertel Jain, executive director of the UCLA Confucius Institute, who originally brought Sellars and Hua together in 1990 at the Los Angeles Festival. Qiaoer Zheng, a young Kun opera student from the Asian theater program at the University of Hawaii, joined Madame Hua in one scene. Kunqu flute player Henry Chang provided accompaniment.</itunes:summary>
+            <itunes:duration>1:19:36</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunesu:category itunesu:code="102107"/>
+        </item>
+        <item>
+            <title>Design Ideas from the Classical Chinese Garden of Suzhou</title>
+            <description><![CDATA[Landscape designer Daxin Liu presents an illustrated lecture on the magnificent gardens of Suzhou, China, focusing on design principles and techniques that can be incorporated into Californian gardens to add classical Chinese touches to the landscape.]]></description>
+            <author>The Huntington (publicinformation@huntington.org)</author>
+            <pubDate>Tue, 04 May 2010 13:33:36 -0700</pubDate>
+            <enclosure url="http://www.huntington.org/uploadedFiles/Files/Audio/liuchinesegarden.m4a" length="28693233" type="audio/x-m4a"/>
+            <guid isPermaLink="false">design-ideas-from-the-classical-chinese-garden-of</guid>
+            <itunes:author>Daxin Liu</itunes:author>
+            <itunes:summary>Landscape designer Daxin Liu presents an illustrated lecture on the magnificent gardens of Suzhou, China, focusing on design principles and techniques that can be incorporated into Californian gardens to add classical Chinese touches to the landscape. </itunes:summary>
+            <itunes:duration>58:28</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>The "Edge of the World" Revisited</title>
+            <description><![CDATA[For the past 22 years, conservation biologist William McNamara has made annual treks into the mountains of China, Japan, and India in search of unusual plants. In this lecture, McNamara shares tales from his travels in the species-rich regions of Asia known to plant biologists as the “Edge of the World.”]]></description>
+            <author>The Huntington (publicinformation@huntington.org)</author>
+            <pubDate>Tue, 22 Sep 2009 20:54:11 -0700</pubDate>
+            <category>Botanical Gardens</category>
+            <enclosure url="http://www.huntington.org/uploadedFiles/Files/Audio/edgeworldrevisited.m4a" length="69448098" type="audio/x-m4a"/>
+            <guid isPermaLink="false">the-edge-of-the-world-revisited</guid>
+            <source url="http://www.huntington.org/uploadedFiles/Files/Audio/edgeworldrevisited.m4a">The "Edge of the World" Revisited</source>
+            <itunes:author>William McNamera, director of Quarryhill Botanical Garden, Glen Ellen, Calif.</itunes:author>
+            <itunes:summary>For the past 22 years, conservation biologist William McNamara has made annual treks into the mountains of China, Japan, and India in search of unusual plants. In this lecture, McNamara shares tales from his travels in the species-rich regions of Asia known to plant biologists as the “Edge of the World.” </itunes:summary>
+            <itunes:keywords>Biology, William McNamara, Asia</itunes:keywords>
+            <itunes:duration>1:12:10</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunesu:category itunesu:code="109103"/>
+        </item>
+        <item>
+            <title>Vistas and Visions: Future Avenues of Exploration in Liu Fang Yuan</title>
+            <description><![CDATA[June Li and Jim Folsom discuss future plans for The Huntington's Chinese garden.]]></description>
+            <author>The Huntington (publicinformation@huntington.org)</author>
+            <pubDate>Mon, 14 Sep 2009 21:31:22 -0700</pubDate>
+            <category>Botanical Gardens</category>
+            <enclosure url="http://www.huntington.org/uploadedFiles/Files/Audio/vistasvisions.m4a" length="38625990" type="audio/x-m4a"/>
+            <guid isPermaLink="false">vistas-and-visions-future-avenues-of-exploration</guid>
+            <source url="http://www.huntington.org/uploadedFiles/Files/Audio/vistasvisions.m4a">Vistas and Visions: Future Avenues of Exploration in Liu Fang Yuan</source>
+            <itunes:author>June Li, curator of the Chinese Garden; and Jim Folsom, Telleen/Jorgensen Director of the Botanical Gardens</itunes:author>
+            <itunes:summary>June Li and Jim Folsom discuss future plans for The Huntington's Chinese garden.</itunes:summary>
+            <itunes:keywords>The Huntington, Chinese Garden</itunes:keywords>
+            <itunes:duration>50:01</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunesu:category itunesu:code="104105"/>
+        </item>
+        <item>
+            <title>Shanghai Girls</title>
+            <description><![CDATA[Author Lisa See discusses her latest book, "Shanghai Girls," with Julie Robinson of Literary Affairs.]]></description>
+            <author>The Huntington (publicinformation@huntington.org)</author>
+            <pubDate>Tue, 02 Jun 2009 20:36:37 -0700</pubDate>
+            <category>Botanical Gardens</category>
+            <enclosure url="http://www.huntington.org/uploadedFiles/Files/Audio/shanghaigirls.m4a" length="58229489" type="audio/x-m4a"/>
+            <guid isPermaLink="false">shanghai-girls</guid>
+            <source url="http://www.huntington.org/uploadedFiles/Files/Audio/shanghaigirls.m4a">Shanghai Girls</source>
+            <itunes:author>Lisa See</itunes:author>
+            <itunes:summary>Author Lisa See discusses her latest book, "Shanghai Girls," with Julie Robinson of Literary Affairs.</itunes:summary>
+            <itunes:keywords>Lisa See, Shanghai Girls, Julie Robinson</itunes:keywords>
+            <itunes:duration>1:00:49</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunesu:category itunesu:code="109100"/>
+        </item>
+        <item>
+            <title>The Language of Flowers in China</title>
+            <description><![CDATA[Ronald Egan, professor of East Asian languages and cultural studies at UCSB, discusses the symbolism of flowers in Chinese literature and art. Plum blossoms, chrysanthemums, peonies, lotus flowers, and other plants were often endowed with humanistic traits. Egan also explores the aesthetic tensions that occasionally surfaced as cultural tastes changed and new floral emblems gained favor.]]></description>
+            <author>The Huntington (publicinformation@huntington.org)</author>
+            <pubDate>Tue, 31 Mar 2009 21:03:27 -0700</pubDate>
+            <category>Botanical Gardens</category>
+            <enclosure url="http://www.huntington.org/uploadedFiles/Files/Audio/languageflowers.m4a" length="40898302" type="audio/x-m4a"/>
+            <guid isPermaLink="false">the-language-of-flowers-in-china</guid>
+            <source url="http://www.huntington.org/uploadedFiles/Files/Audio/languageflowers.m4a">The Language of Flowers in China</source>
+            <itunes:author>Ronald Egan, University of California, Santa Barbara</itunes:author>
+            <itunes:summary>Ronald Egan, professor of East Asian languages and cultural studies at UCSB, discusses the symbolism of flowers in Chinese literature and art. Plum blossoms, chrysanthemums, peonies, lotus flowers, and other plants were often endowed with humanistic traits. Egan also explores the aesthetic tensions that occasionally surfaced as cultural tastes changed and new floral emblems gained favor. </itunes:summary>
+            <itunes:keywords>Chinese, Ronald Egan, UCSB</itunes:keywords>
+            <itunes:duration>50:29</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
